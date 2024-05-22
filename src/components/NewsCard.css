@@ -1,0 +1,9 @@
+.container {
+    margin: 5px;
+    padding: 0;
+    width: 100%;
+}
+
+.card-media {
+    object-fit: cover;
+}
